@@ -1,6 +1,6 @@
 # Mardown Demo
 
-<p> This is a paragraph.  
+<p> This is a paragraph.<br>
 It lets you seperate seperate lines of text.</p>
 
 This is **bold ** and *Italic text.*
